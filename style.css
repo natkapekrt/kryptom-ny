@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #4753f0;
+    color: #faf2f2;
+    padding: 10px;
+    border: 2px solid rgb(243, 234, 234);
+    border-radius: 5px;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.ceny {
+    border: 1px solid #ccc;
+    width: 100%;
+    color: #f8f4f4;
+    border: 2px solid rgb(243, 234, 234);
+    border-radius: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    border: 1px solid #f8f4f4;
+}
+
+.vyhledavani {
+    margin-top: 20px;
+    color: #f8f4f4;
+}
+
+input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border: 2px solid rgb(243, 234, 234);
+    border-radius: 5px;
+}
+
+select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border: 2px solid rgb(243, 234, 234);
+    border-radius: 5px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #494747;
+    color: #fff;
+    border: 1px solid #ccc;
+    border: 2px solid rgb(243, 234, 234);
+    border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+   
+    table {
+        width: auto;
+    }
+}
+body {
+    background: url("https://d39-a.sdn.cz/d_39/c_img_QK_G/IScCJ.jpeg?fl=cro,0,223,4240,2385%7Cres,1200,,1%7Cjpg,80,,1") fixed center/cover no-repeat;
+  }
+ 
